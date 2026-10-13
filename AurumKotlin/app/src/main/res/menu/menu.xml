@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/home_24px"
+        android:title="Anasayfa" />
+    <item
+        android:id="@+id/logFragment"
+        android:icon="@drawable/history_edu_24px"
+        android:title="Kayıtlar" />
+</menu>
